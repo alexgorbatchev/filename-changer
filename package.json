@@ -1,10 +1,13 @@
 {
   "name": "filename-changer",
   "version": "1.0.0",
-  "description": "Awesome module",
+  "description": "A helper module to simplify life when dealing with file names. Basically, it allows you to use a simple pattern to edit file names.",
   "keywords": [
-    "keyword1",
-    "keyword2"
+    "filename",
+    "changer",
+    "tool",
+    "helper",
+    "edit"
   ],
   "homepage": "https://github.com/alexgorbatchev/filename-changer",
   "bugs": "https://github.com/alexgorbatchev/filename-changer/issues",
